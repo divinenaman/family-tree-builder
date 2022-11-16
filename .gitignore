@@ -1,0 +1,6 @@
+.env
+venv/
+.vscode/
+driver/
+tmp/
+__pycache__/
