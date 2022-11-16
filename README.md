@@ -3,7 +3,7 @@
 ## A very brief overview but hopefully I'll update this soon. 
 
 
-While working on this project (which was apparently a hiring challenge), I was able to scrape 25k+ data from the various sources and successfully built family trees. In my initial testing my approach accurately linked 3+ generations which will eventually produce greater depths given more time. It was fun.  
+While working on this project (a hiring challenge, cut to the chase was not hired), I was able to scrape 25k+ data from the various sources and successfully built family trees. In my initial testing my approach accurately linked 3+ generations which will eventually produce greater depths given more time. It was fun.  
 
 
 ## Overview
