@@ -15,8 +15,8 @@ While working on this project (which was apparently a hiring challenge), I was a
 
 ## Tech/Tools At work
 
-- OCR
-- Language Transalation (hindi->english, tamli->english)
+- Computer Visio (OCR, Canny Edges)
+- NLP (Language Transalation (hindi->english, tamli->english))
 - Web Scraping
 - Graphical Analysis
 - Family Relationship Resolver
